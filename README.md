@@ -1,3 +1,5 @@
+Patch sql 範本 > Sample_Patch.sql
+
 設定DB連線<br />
 SQLVersionConsoleApp\bin\Debug\net8.0\SQLVersionConsoleApp.dll.config
 
