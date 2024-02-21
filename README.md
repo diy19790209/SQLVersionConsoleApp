@@ -1,9 +1,8 @@
-設定DB連線
+設定DB連線<br />
 SQLVersionConsoleApp\bin\Debug\net8.0\SQLVersionConsoleApp.dll.config
-<add name="MISConnectionString" connectionString="Data Source=192.168.xxx.xxx,1466;Initial Catalog=MeetingManagement;User ID=xxx;password=xxxxxx"/>
 
-建立版控Table
+建立版控Table<br />
 SQLVersionConsoleApp\bin\Debug\net8.0>SQLVersionConsoleApp CreateVersionTable
 
-執行 Patch
+執行 Patch<br />
 SQLVersionConsoleApp\bin\Debug\net8.0>SQLVersionConsoleApp Patch C:\xxx\xxx\xxxx.sql
